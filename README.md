@@ -16,8 +16,8 @@ Product category performance metrics
 The project demonstrates skills in data modeling, DAX calculations, and creating visualizations, turning raw data into actionable insights for business decisions.
 
 # Data Sources
-*Sales data (CSV file)
-*Product catalog (Excel file)
-*Geographic information (CSV file)
+**Sales data (CSV file)
+**Product catalog (Excel file)
+**Geographic information (CSV file)
 
 Data Cleaning and Preparation
